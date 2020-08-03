@@ -1,0 +1,7 @@
+C:\Users\Polzovatel\source\repos\1_13\1_13\bin\Debug\1_13.exe.config
+C:\Users\Polzovatel\source\repos\1_13\1_13\bin\Debug\1_13.exe
+C:\Users\Polzovatel\source\repos\1_13\1_13\bin\Debug\1_13.pdb
+C:\Users\Polzovatel\source\repos\1_13\1_13\obj\Debug\1_13.csprojAssemblyReference.cache
+C:\Users\Polzovatel\source\repos\1_13\1_13\obj\Debug\1_13.csproj.CoreCompileInputs.cache
+C:\Users\Polzovatel\source\repos\1_13\1_13\obj\Debug\1_13.exe
+C:\Users\Polzovatel\source\repos\1_13\1_13\obj\Debug\1_13.pdb
